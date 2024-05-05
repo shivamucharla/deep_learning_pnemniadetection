@@ -18,8 +18,12 @@ Transfer Learning with Xception: Transfer learning involves utilizing a pre-trai
 Instructions for Running the Streamlit Application:
 
 1.Install the necessary dependencies by running pip install -r requirements.txt.
+
 2.Navigate to the directory containing pneumonia_detection_app.py.
+
 3.Run the Streamlit application using the command streamlit run pneumonia_detection_app.py.
+
 4.Once the application is running, upload a chest X-ray image using the provided interface.
+
 5.The application will process the image and display the prediction result, indicating whether the person is affected by pneumonia or not.
 6.Additionally, the accuracy of the model (94.03%) will be shown to the user.
