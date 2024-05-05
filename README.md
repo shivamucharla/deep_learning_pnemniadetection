@@ -26,4 +26,5 @@ Instructions for Running the Streamlit Application:
 4.Once the application is running, upload a chest X-ray image using the provided interface.
 
 5.The application will process the image and display the prediction result, indicating whether the person is affected by pneumonia or not.
+
 6.Additionally, the accuracy of the model (94.03%) will be shown to the user.
