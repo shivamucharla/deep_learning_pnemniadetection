@@ -12,6 +12,7 @@ data/: Directory containing the dataset used for training the model. This datase
 Additional Information:
 
 EDA (Exploratory Data Analysis): Before training the model, exploratory data analysis was conducted to understand the distribution of classes, visualize sample images, and identify any data preprocessing requirements.
+
 Transfer Learning with Xception: Transfer learning involves utilizing a pre-trained neural network model (Xception) and fine-tuning it on our specific dataset for pneumonia detection. This approach helps achieve higher accuracy with less training data and computational resources.
 
 Instructions for Running the Streamlit Application:
